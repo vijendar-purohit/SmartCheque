@@ -1,0 +1,18 @@
+{
+  "payee_name": "John Doe",
+  "payee_account_number": "123456789012",
+  "ifsc_code": "SBIN0001234",
+  "branch": "Main Branch",
+  "bank_name": "State Bank of India",
+  "drawer_name": "Test User",
+  "amount_rupees": "500.00",
+  "expanded_crores": 0,
+  "expanded_lakhs": 0,
+  "expanded_thousands": 0,
+  "expanded_hundreds": 5,
+  "expanded_tens": 0,
+  "expanded_ones": 0,
+  "expanded_paise": 0,
+  "amount_confirmation": "500.00",
+  "cheque_date": "2026-06-23"
+}

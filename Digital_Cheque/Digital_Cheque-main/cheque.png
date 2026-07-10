@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>SignatureDoesNotMatch</Code><Message>The request signature we calculated does not match the signature you provided. Check your key and signing method.</Message><Key>65cf1273-5629-4171-8160-077c4169fce0/65cf1273-5629-4171-8160-077c4169fce0.png</Key><BucketName>cheques</BucketName><Resource>/cheques/65cf1273-5629-4171-8160-077c4169fce0/65cf1273-5629-4171-8160-077c4169fce0.png</Resource><RequestId>18BBA99588B3D8AF</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>

@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+
+
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.onnx
+
+# Node
+node_modules/
+dist/
+.DS_Store
